@@ -1,2 +1,2 @@
 # reading_notes
-notes of reading
+write some notes of reading in this year(2022)
